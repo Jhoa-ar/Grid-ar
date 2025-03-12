@@ -1,0 +1,156 @@
+.conteiner{
+    background-color: antiquewhite;
+    padding: 5px;
+    display: grid;
+    grid-template-areas:"conteiner1 conteiner1 conteiner1 conteiner1 conteiner1 conteiner1 conteiner1"
+                        "conteiner2 conteiner2 conteiner2 conteiner2 conteiner2 conteiner2 conteiner2"
+                        "conteiner3 conteiner4 conteiner5 conteiner5 conteiner6 conteiner7 conteiner7"
+                        "conteiner3 conteiner4 conteiner5 conteiner5 conteiner6 conteiner8 conteiner9"
+                        "conteiner10 conteiner11 conteiner5 conteiner5 conteiner6 conteiner8 conteiner12"
+                        "conteiner10 conteiner11 conteiner5 conteiner5 conteiner6 conteiner8 conteiner13"
+                        "conteiner14 conteiner14 conteiner14 conteiner15 conteiner15 conteiner15 conteiner15"
+                        "conteiner16 conteiner16 conteiner16 conteiner16 conteiner16 conteiner16 conteiner16";
+
+}
+
+.conteiner .conteiner1{
+    background-color: blueviolet;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner1;
+}
+
+.conteiner .conteiner2{
+    background-color: rgb(180, 46, 207);
+    padding: 20px;
+    margin: 5px;
+    grid-area: conteiner2;
+}
+
+.conteiner .conteiner3{
+    background-color: rgb(51, 11, 88);
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner3;
+}
+
+.conteiner .conteiner4{
+    background-color: rgb(182, 135, 226);
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner4;
+}
+
+.conteiner .conteiner5{
+    background-color: rgb(42, 6, 75);
+    padding: 100px;
+    font-size: 30px;
+    margin: 5px;
+    text-align: center;
+    grid-area: conteiner5;
+}
+
+.conteiner .conteiner6{
+    background-color: rgb(86, 2, 165);
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner6;
+}
+
+.conteiner .conteiner7{
+    background-color: rgb(199, 185, 212);
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner7;
+}
+
+.conteiner .conteiner8{
+    background-color: rgb(86, 63, 107);
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner8;
+}
+
+.conteiner .conteiner9{
+    background-color: rgb(83, 68, 97);
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner9;
+}
+
+.conteiner .conteiner10{
+    background-color: rgb(47, 2, 88);
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner10;
+}
+
+
+
+.conteiner .conteiner11{
+    background-color: rgb(130, 0, 252);
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner11;
+}
+
+.conteiner .conteiner12{
+    background-color: rgb(194, 133, 252);
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner12;
+}
+
+.conteiner .conteiner13{
+    background-color: rgb(50, 44, 56);
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner13;
+}
+
+.conteiner .conteiner14{
+    background-color: rgb(32, 13, 49);
+    padding: 20px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner14;
+}
+
+.conteiner .conteiner15{
+    background-color: rgb(59, 4, 110);
+    padding: 20Px;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    grid-area: conteiner15;
+}
+
+.conteiner .conteiner16{
+    background-color: rgb(130, 79, 179);
+    padding: 30px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    grid-area: conteiner16;
+}
